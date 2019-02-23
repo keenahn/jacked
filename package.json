@@ -1,0 +1,30 @@
+{
+  "name": "jacked",
+  "version": "1.0.0",
+  "description": "Random ways to say jacked 💪",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/keenahn/jacked.git"
+  },
+  "keywords": [
+    "genetic beast lobster",
+    "list",
+    "random",
+    "word list",
+    "words"
+  ],
+  "author": "Keenahn Tiberius Jung <keenahn@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/keenahn/jacked/issues"
+  },
+  "homepage": "https://gitlab.com/keenahn/jacked#readme",
+  "devDependencies": {
+    "ava": "^1.2.1",
+    "xo": "^0.24.0"
+  }
+}
