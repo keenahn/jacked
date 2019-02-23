@@ -1,10 +1,10 @@
 {
   "name": "jacked",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Random ways to say jacked 💪",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,6 @@
   },
   "homepage": "https://gitlab.com/keenahn/jacked#readme",
   "devDependencies": {
-    "ava": "^1.2.1",
-    "xo": "^0.24.0"
+    "ava": "^1.2.1"
   }
 }
