@@ -2,11 +2,16 @@
 
 > Random ways to say jacked 💪
 
-Inspired by https://www.npmjs.com/package/superb and https://www.youtube.com/watch?v=8XrgkvzAorM
+Inspired by [superb](https://www.npmjs.com/package/superb) and this [Bro Science Life](https://www.youtube.com/watch?v=8XrgkvzAorM) video.
 
-It may seem a bit confusing, but all of these phrases are meant to be used as adjectives, even the ones that seem to be nouns.
+As confusing as it seems, all of these phrases are adjectives, even the ones that appear to be nouns.
 
-"You're looking very radio city muscle hall today" or "Damn dude, you've been totally swolbraham lincoln lately."
+Examples:
+
+- *"My dude, you're looking very __radio city muscle hall__ today"*
+- *"Damn son, you've been lookin totally __swolbraham lincoln__ lately."*
+
+No dependencies! Typescript is optional!
 
 # Install
 
